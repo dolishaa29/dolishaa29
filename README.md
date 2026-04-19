@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Dolisha Gandhi</h1>
 <h3 align="center">Full-Stack Developer • MERN Stack • AI/ML Enthusiast</h3>
 
@@ -7,9 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="mailto:Dolishagandhi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/dolishagandhi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/dolishaa29"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
+  <a href="mailto:Dolishagandhi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/dolishagandhi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/dolishaa29">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
@@ -18,9 +23,9 @@
 
 - 💻 Full-Stack Developer focused on **MERN Stack**
 - 🤖 Exploring **Machine Learning, AI Integration & Intelligent Systems**
-- ⚡ Interested in building products that are **useful, scalable, and cleanly engineered**
-- 🧠 Strong interest in **real-time apps, secure backend systems, and applied AI**
-- 📍 Based in **Rajasthan, India**
+- ⚡ Building **scalable, useful, and cleanly engineered products**
+- 🧠 Interested in **real-time apps & secure backend systems**
+- 📍 Rajasthan, India
 
 ---
 
@@ -34,69 +39,85 @@
 
 # 🌟 Featured Projects
 
-## 🏥 AuraHealth — Smart Health Platform
+## 🏥 AuraHealth — Smart Health Platform  
 **Tech:** React, Node.js, Docker, Machine Learning  
 
-A healthcare-focused digital platform designed to streamline appointments, patient triaging, and health tracking.
+<p>
+  <a href="https://aurahealth-demo.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel">
+  </a>
+  <a href="https://github.com/dolishaa29/aurahealth" target="_blank">
+    <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ### Highlights:
-- 🩺 Doctor appointment & patient workflow system
-- 🤖 ML-based skincare / health analysis features
-- 📂 Health record management & tracking
-- 🐳 Dockerized setup for smooth deployment and consistency
-
-> **Why it stands out:** Combines full-stack development with practical healthcare use cases and AI integration.
+- 🩺 Doctor appointment & workflow system  
+- 🤖 ML-based health analysis  
+- 📂 Health record tracking  
+- 🐳 Dockerized deployment  
 
 ---
 
-## 🎓 EduPulse ERP — Smart Education Management System
-**Tech:** MERN Stack, OpenCV, WebRTC, AI Integration  
+## 🎓 EduPulse ERP — Smart Education System  
+**Tech:** MERN Stack, OpenCV, WebRTC  
 
-A complete education ERP platform built to manage institutional workflows through role-based dashboards and smart automation.
+<p>
+  <a href="https://edupulse-erp.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel">
+  </a>
+  <a href="https://github.com/dolishaa29/edupulse-erp" target="_blank">
+    <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ### Highlights:
-- 👨‍🎓 Separate portals for **Admin, Student, and Staff**
-- 📚 Modules for **Admissions, Attendance, Exams, Fees, Library, and Transport**
-- 🧠 **OpenCV-based Smart Attendance System**
-- 💬 AI-powered chatbot for instant help and navigation
-- 📍 Live GPS-based transport tracking
-- 📊 Automated reports and management insights
-
-> **Why it stands out:** Strong combination of **real-time features, computer vision, and full-stack architecture**.
+- 👨‍🎓 Role-based dashboards  
+- 🧠 Smart attendance (OpenCV)  
+- 💬 AI chatbot  
+- 📍 GPS tracking  
 
 ---
 
-## 🛒 Everzaar — Full-Stack E-Commerce Platform
-**Tech:** MERN Stack, Cloudinary, Payment Integration  
+## 🛒 Everzaar — E-Commerce Platform  
+**Tech:** MERN Stack, Cloudinary  
 
-A scalable marketplace built with separate flows for users and sellers.
+<p>
+  <a href="https://everzaar.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel">
+  </a>
+  <a href="https://github.com/dolishaa29/everzaar" target="_blank">
+    <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ### Highlights:
-- 🛍 Dedicated **Seller & User dashboards**
-- 🔐 Secure authentication with **RBAC**
-- 💳 Payment integration for order handling
-- 🖼 Cloudinary integration for optimized media storage
-- 🛒 Efficient cart and product workflows
-
-> **Why it stands out:** Shows practical understanding of **auth, commerce flows, media handling, and production-ready architecture**.
+- 🛍 Seller & user dashboards  
+- 🔐 RBAC authentication  
+- 💳 Payment integration  
 
 ---
 
-## 📊 Prime Vault Dashboard — Secure Admin Management System
-**Tech:** Node.js, EJS, Email Automation  
+## 📊 Prime Vault Dashboard  
+**Tech:** Node.js, EJS  
 
-An administrative dashboard for secure user and transaction handling.
+<p>
+  <a href="https://primevault-dashboard.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=render">
+  </a>
+  <a href="https://github.com/dolishaa29/prime-vault" target="_blank">
+    <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ### Highlights:
-- 📁 User & transaction management system
-- 📧 Automated email notifications
-- 🔒 Structured admin-side workflows and control
-
-> **Why it stands out:** Demonstrates backend logic, admin tooling, and workflow automation.
+- 📁 User & transaction management  
+- 📧 Email automation  
+- 🔒 Admin workflows  
 
 ---
 
-# 📈 GitHub Insights
+## 📈 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dolishaa29&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -109,21 +130,11 @@ An administrative dashboard for secure user and transaction handling.
 
 ---
 
-## 🎯 What I Like Building
-
-- Full-Stack Web Applications
-- Real-Time Communication Systems
-- AI/ML Integrated Products
-- Clean Backend Architectures
-- Scalable Problem-Solving Projects
-
----
-
 ## 📬 Reach Out
 
-- 📧 **Dolishagandhi@gmail.com**
-- 💼 **LinkedIn:** [dolishagandhi](https://www.linkedin.com/in/dolishagandhi/)
-- 💻 **GitHub:** [dolishaa29](https://github.com/dolishaa29)
+- 📧 Dolishagandhi@gmail.com  
+- 💼 https://www.linkedin.com/in/dolishagandhi/  
+- 💻 https://github.com/dolishaa29  
 
 ---
 

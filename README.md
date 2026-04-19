@@ -35,87 +35,8 @@
   <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp,html,css,react,nodejs,express,mongodb,mysql,postgresql,tailwind,flask,docker,git,github,vscode,postman" />
 </p>
 
----
 
-# 🌟 Featured Projects
-
-## 🏥 AuraHealth — Smart Health Platform  
-**Tech:** React, Node.js, Docker, Machine Learning  
-
-<p>
-  <a href="https://aurahealth-demo.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel">
-  </a>
-  <a href="https://github.com/dolishaa29/aurahealth" target="_blank">
-    <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github">
-  </a>
-</p>
-
-### Highlights:
-- 🩺 Doctor appointment & workflow system  
-- 🤖 ML-based health analysis  
-- 📂 Health record tracking  
-- 🐳 Dockerized deployment  
-
----
-
-## 🎓 EduPulse ERP — Smart Education System  
-**Tech:** MERN Stack, OpenCV, WebRTC  
-
-<p>
-  <a href="https://edupulse-erp.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel">
-  </a>
-  <a href="https://github.com/dolishaa29/edupulse-erp" target="_blank">
-    <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github">
-  </a>
-</p>
-
-### Highlights:
-- 👨‍🎓 Role-based dashboards  
-- 🧠 Smart attendance (OpenCV)  
-- 💬 AI chatbot  
-- 📍 GPS tracking  
-
----
-
-## 🛒 Everzaar — E-Commerce Platform  
-**Tech:** MERN Stack, Cloudinary  
-
-<p>
-  <a href="https://everzaar.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel">
-  </a>
-  <a href="https://github.com/dolishaa29/everzaar" target="_blank">
-    <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github">
-  </a>
-</p>
-
-### Highlights:
-- 🛍 Seller & user dashboards  
-- 🔐 RBAC authentication  
-- 💳 Payment integration  
-
----
-
-## 📊 Prime Vault Dashboard  
-**Tech:** Node.js, EJS  
-
-<p>
-  <a href="https://primevault-dashboard.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=render">
-  </a>
-  <a href="https://github.com/dolishaa29/prime-vault" target="_blank">
-    <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github">
-  </a>
-</p>
-
-### Highlights:
-- 📁 User & transaction management  
-- 📧 Email automation  
-- 🔒 Admin workflows  
-
----
+  
 
 ## 📈 GitHub Insights
 

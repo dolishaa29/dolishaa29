@@ -53,7 +53,7 @@
 
 ## 📬 Reach Out
 
-- 📧 Dolishagandhi@gmail.com  
+- 📧 dolishagandhi@gmail.com  
 - 💼 https://www.linkedin.com/in/dolishagandhi/  
 - 💻 https://github.com/dolishaa29  
 
